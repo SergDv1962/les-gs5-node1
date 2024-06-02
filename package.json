@@ -1,0 +1,17 @@
+{
+  "name": "les-g5-node1",
+  "version": "1.0.0",
+  "description": "node js lessons",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dsv",
+  "license": "ISC",
+  "devDependencies": {
+    "logger-service": "^1.0.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
